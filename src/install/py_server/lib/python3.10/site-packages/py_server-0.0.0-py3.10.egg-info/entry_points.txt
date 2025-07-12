@@ -1,0 +1,4 @@
+[console_scripts]
+client = py_server.client:main
+server = py_server.service:main
+

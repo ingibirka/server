@@ -1,0 +1,40 @@
+running egg_info
+creating build/py_server/py_server.egg-info
+writing build/py_server/py_server.egg-info/PKG-INFO
+writing dependency_links to build/py_server/py_server.egg-info/dependency_links.txt
+writing entry points to build/py_server/py_server.egg-info/entry_points.txt
+writing requirements to build/py_server/py_server.egg-info/requires.txt
+writing top-level names to build/py_server/py_server.egg-info/top_level.txt
+writing manifest file 'build/py_server/py_server.egg-info/SOURCES.txt'
+reading manifest file 'build/py_server/py_server.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'build/py_server/py_server.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ingibirka/pepsi_ws/src/py_server/build/py_server/build
+creating /home/ingibirka/pepsi_ws/src/py_server/build/py_server/build/lib
+creating /home/ingibirka/pepsi_ws/src/py_server/build/py_server/build/lib/py_server
+copying py_server/service.py -> /home/ingibirka/pepsi_ws/src/py_server/build/py_server/build/lib/py_server
+copying py_server/__init__.py -> /home/ingibirka/pepsi_ws/src/py_server/build/py_server/build/lib/py_server
+copying py_server/client.py -> /home/ingibirka/pepsi_ws/src/py_server/build/py_server/build/lib/py_server
+running install
+running install_lib
+creating /home/ingibirka/pepsi_ws/src/py_server/install/py_server/lib/python3.10/site-packages/py_server
+copying /home/ingibirka/pepsi_ws/src/py_server/build/py_server/build/lib/py_server/service.py -> /home/ingibirka/pepsi_ws/src/py_server/install/py_server/lib/python3.10/site-packages/py_server
+copying /home/ingibirka/pepsi_ws/src/py_server/build/py_server/build/lib/py_server/__init__.py -> /home/ingibirka/pepsi_ws/src/py_server/install/py_server/lib/python3.10/site-packages/py_server
+copying /home/ingibirka/pepsi_ws/src/py_server/build/py_server/build/lib/py_server/client.py -> /home/ingibirka/pepsi_ws/src/py_server/install/py_server/lib/python3.10/site-packages/py_server
+byte-compiling /home/ingibirka/pepsi_ws/src/py_server/install/py_server/lib/python3.10/site-packages/py_server/service.py to service.cpython-310.pyc
+byte-compiling /home/ingibirka/pepsi_ws/src/py_server/install/py_server/lib/python3.10/site-packages/py_server/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ingibirka/pepsi_ws/src/py_server/install/py_server/lib/python3.10/site-packages/py_server/client.py to client.cpython-310.pyc
+running install_data
+creating /home/ingibirka/pepsi_ws/src/py_server/install/py_server/share/ament_index
+creating /home/ingibirka/pepsi_ws/src/py_server/install/py_server/share/ament_index/resource_index
+creating /home/ingibirka/pepsi_ws/src/py_server/install/py_server/share/ament_index/resource_index/packages
+copying resource/py_server -> /home/ingibirka/pepsi_ws/src/py_server/install/py_server/share/ament_index/resource_index/packages
+copying package.xml -> /home/ingibirka/pepsi_ws/src/py_server/install/py_server/share/py_server
+running install_egg_info
+Copying build/py_server/py_server.egg-info to /home/ingibirka/pepsi_ws/src/py_server/install/py_server/lib/python3.10/site-packages/py_server-0.0.0-py3.10.egg-info
+running install_scripts
+Installing client script to /home/ingibirka/pepsi_ws/src/py_server/install/py_server/lib/py_server
+Installing server script to /home/ingibirka/pepsi_ws/src/py_server/install/py_server/lib/py_server
+writing list of installed files to '/home/ingibirka/pepsi_ws/src/py_server/build/py_server/install.log'
